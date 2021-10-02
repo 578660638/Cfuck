@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\java\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\java\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\aspro\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\java\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aspro\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\java\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\aspro\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\java\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\aspro\\app\\.cxx\\cmake\\release\\arm64-v8a\" native-lib",
+      "abi": "arm64-v8a",
+      "output": "D:\\aspro\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

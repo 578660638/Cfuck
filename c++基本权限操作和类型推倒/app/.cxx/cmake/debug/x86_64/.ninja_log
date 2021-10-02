@@ -1,0 +1,7 @@
+# ninja log v5
+1	384	652557512	build.ninja	3b04be61a01d460
+0	9	0	clean	5206900cf4c771d6
+1	2320	652557548	CMakeFiles/native-lib.dir/student.cpp.o	b14b555638e3a120
+8	2324	652557548	CMakeFiles/native-lib.dir/Person.cpp.o	1433ba57dfd52862
+5	2778	652557549	CMakeFiles/native-lib.dir/native-lib.cpp.o	619780e54ecacaa6
+2781	6865	652557553	D:/aspro/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	ca344edd01ba8044
